@@ -1,0 +1,13 @@
+[07-Nov-2023 22:36:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'v5yxdabowdqt'@'localhost' to database 'bdtaxis' in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/reportes/database.php on line 10
+[08-Nov-2023 02:22:48 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[08-Nov-2023 02:22:48 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37
+[08-Nov-2023 18:24:51 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[08-Nov-2023 18:24:51 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37
+[13-Nov-2023 15:19:32 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[13-Nov-2023 15:19:32 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37
+[17-Nov-2023 04:55:59 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[17-Nov-2023 04:55:59 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37
+[26-Nov-2023 22:14:24 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[26-Nov-2023 22:14:24 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37
+[09-Dec-2023 03:17:37 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[09-Dec-2023 03:17:37 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37

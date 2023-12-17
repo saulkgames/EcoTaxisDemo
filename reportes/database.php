@@ -1,0 +1,12 @@
+<?php
+if(!isset($_SESSION)) 
+{ 
+    session_start(); 
+} 
+$mysql=mysqli_connect(
+    'localhost',
+    'v5yxdabowdqt',
+    'WuvnB76k4%Pq',
+    'dbtaxis'
+);
+?>

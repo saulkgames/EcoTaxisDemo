@@ -1,0 +1,10 @@
+.modal {
+    position: absolute;
+    top: 0px;
+    left: -460px;
+}
+  
+.modal-content {
+    max-width: 600px;
+    margin: 0 auto;
+}

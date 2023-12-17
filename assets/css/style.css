@@ -1,0 +1,193 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+input[type="text"], input[type="password"]{
+    outline: none;
+    padding: 20px;
+    display: block;
+    width: 300px;
+    border-radius: 3px;
+    border: 1px solid #eee;
+    margin: 20px auto;
+}
+input[type="submit"]{
+    padding: 10px;
+    color: #fff;
+    background: #009cb0;
+    width: 320px;
+    margin: 20px auto;
+    margin-top: 0;
+    border: 0;
+    border-radius: 3;
+    cursor: pointer;
+    
+}
+input[type="submit"]:hover{
+   background-color: #00b8eb;
+}
+
+header {
+    border-bottom: 2px solid #eee;
+    padding: 20px 0;
+    margin-bottom: 10px;
+    width: 100%; 
+    text-align: center;
+}
+header a{
+    text-decoration: none;
+    color:#333;
+}
+
+.form-inline{
+    margin-right: 300px;
+}
+
+
+/*
+
+*{
+    margin: 0;
+    padding: 0;	
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.capa{
+    width: 100%;
+    height: auto;
+    margin-top: 60px;
+    margin-left: 0px;
+    overflow: hidden;
+    text-align: center;
+
+    
+}
+
+Estilos para el encabezado
+.header{
+    background-color: #000000c6;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;left: 0;
+}
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin-left: 20px;
+}
+.container .btn-menu, .logo{
+    float: left;
+    line-height:60px;
+}
+.user{
+    background-color: #919191b5;
+    float: left;
+    margin-left: 30px;
+    position: static;
+    width: 300px;
+    height: 60px;
+    text-align: center;	
+}
+.container .btn-menu label{
+    color: #000000;
+    font-size: 25px;
+    cursor: pointer;
+}
+.logo a, .user h2	{
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 22px;
+    margin-left: 10px;
+    text-decoration: none;
+    padding: 20px;
+
+
+}
+.container .menu{
+    float: right;
+    line-height: 60px;
+
+}
+.salir{
+    background-color: #b92f2fa4;
+    border-radius: 15%;
+}
+.container .menu a{
+    display: inline-block;
+    padding: 15px;
+    line-height: normal;
+    text-decoration: none;
+    color: #030303;
+    transition: all 0.3s ease; 	
+    border-bottom: 2px solid transparent;
+    font-size: 15px;	
+    margin-right: 5px;
+}
+.container .menu a:hover{
+    border-bottom: 2px solid #c7c7c7;
+    padding-bottom: 5px;
+}
+
+#btn-menu{
+    display: none;
+}
+.container-menu{
+    position: absolute;
+    background: rgba(81, 81, 81, 0.5);
+    width: 100%;
+    height: 100vh;
+    top: 0;left: 0;
+    transition: all 500ms ease;
+    opacity: 0;
+    visibility: hidden;
+}
+#btn-menu:checked ~ .container-menu{
+    opacity: 1;
+    visibility: visible;
+}
+.cont-menu{
+    width: 100%;
+    max-width: 250px;
+    background: #000000;
+    height: 100vh;
+    position: relative;
+    transition: all 500ms ease;
+    transform: translateX(-100%);
+}
+#btn-menu:checked ~ .container-menu .cont-menu{
+    transform: translateX(0%);
+}
+.cont-menu nav{
+    transform: translateY(15%);
+}
+.cont-menu nav a{
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+    color: #c7c7c7;
+    border-left: 5px solid transparent;
+    transition: all 400ms ease;
+}
+.cont-menu nav a:hover{
+    border-left: 5px solid #c7c7c7;
+    background: #1f1f1f;
+}
+.cont-menu label{
+    position: absolute;
+    right: 5px;
+    top: 10px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+Fin de Menù lateral*/

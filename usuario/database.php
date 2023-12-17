@@ -1,0 +1,9 @@
+<?php
+session_start();
+$mysql=mysqli_connect(
+    'localhost',
+    'v5yxdabowdqt',
+    'WuvnB76k4%Pq',
+    'dbtaxis'
+);
+?>

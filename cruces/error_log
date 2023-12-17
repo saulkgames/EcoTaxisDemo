@@ -1,0 +1,12 @@
+[07-Nov-2023 22:35:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'v5yxdabowdqt'@'localhost' to database 'bdtaxis' in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/cruces/database.php on line 10
+[07-Nov-2023 22:35:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/cruces/cruceadmin.php on line 77
+[07-Nov-2023 22:35:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/cruces/cruceadmin.php on line 79
+[07-Nov-2023 22:36:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'v5yxdabowdqt'@'localhost' to database 'bdtaxis' in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/cruces/database.php on line 10
+[07-Nov-2023 22:36:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/cruces/cruceadmin.php on line 77
+[07-Nov-2023 22:36:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/cruces/cruceadmin.php on line 79
+[08-Nov-2023 15:38:22 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[08-Nov-2023 15:38:22 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37
+[11-Nov-2023 16:31:58 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[11-Nov-2023 16:31:58 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37
+[02-Dec-2023 20:05:05 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 25
+[02-Dec-2023 20:05:05 UTC] PHP Notice:  Undefined index: Nombre_Completo in /home/v5yxdabowdqt/public_html/EcoTaxisDemo/partials/headeradmin.php on line 37
